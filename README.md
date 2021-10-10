@@ -7,13 +7,13 @@
 
 ### Features:
 
-**1.Phone Number Authentication
-  2.OTP Verification
-  3.Customizing User Profile
-  4.Message Other Users
-  5.Share Images with Other Users
-  6.Upload Status/Stories
-  7.View Other's Status/Stories
+**1. Phone Number Authentication**/n
+**2. OTP Verification**
+**3. Customizing User Profile**
+**4. Message Other Users**
+**5. Share Images with Other Users**
+**6. Upload Status/Stories**
+**7. View Other's Status/Stories**
   
   ### Libraries Used
   **1.Circular Image View :** https://github.com/hdodenhof/CircleImageView
